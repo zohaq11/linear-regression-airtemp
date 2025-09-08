@@ -1,4 +1,4 @@
-# CSC311 Lab 3 — Linear Regression (UTM Weather)
+# Linear Regression (UTM Weather)
 
 This project builds a linear regression model to predict **UTM pond air temperature** using measurements from the **UTM forest** (air temp, soil temp, relative humidity, soil water content). It includes a **custom gradient-descent implementation** and a **scikit-learn baseline**, plus simple visualization and train/validation/test evaluation.
 
@@ -20,3 +20,18 @@ This project builds a linear regression model to predict **UTM pond air temperat
 - Python 3.9+  
 - `numpy`, `pandas`, `matplotlib`, `scikit-learn`
 
+## Outputs
+**Scatter plots for forest features**
+![Output](images/Figure_1.png)![Output](images/Figure_2.png)
+![Output](images/Figure_3.png)![Output](images/Figure_4.png)
+
+**Learning rate that is too low**
+![Output](images/Figure_5.png)
+**Learning rate that is too high**
+![Output](images/Figure_6.png)
+**Using best hyperparameters**
+![Output](images/Figure_7.png)
+
+**Output**
+![Output](images/output1.png)
+![Output](images/output2.png)
