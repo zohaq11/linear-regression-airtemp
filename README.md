@@ -1,6 +1,6 @@
-# Linear Regression (UTM Weather)
+# Linear Regression (Air Temperature)
 
-This project builds a linear regression model to predict **UTM pond air temperature** using measurements from the **UTM forest** (air temp, soil temp, relative humidity, soil water content). It includes a **custom gradient-descent implementation** and a **scikit-learn baseline**, plus simple visualization and train/validation/test evaluation.
+This project builds a linear regression model to predict **UTM pond air temperature** using measurements from the **UTM forest** (air temp, soil temp, relative humidity, soil water content). It includes a **custom gradient-descent implementation** and a **scikit-learn baseline**, plus visualization and train/validation/test evaluation.
 
 > **Data source:** University of Toronto Mississauga meteorological station  
 > https://www.utm.utoronto.ca/geography/resources/meteorological-station/environmental-datasets
